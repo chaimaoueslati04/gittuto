@@ -12,6 +12,10 @@
  {
 
  }
+public function_multipl()
+ {
+
+ }
 
 int main()
 {
