@@ -8,7 +8,7 @@
  {
 
  }
- public function_division()
+ public function_division2()
  {
 
  }
