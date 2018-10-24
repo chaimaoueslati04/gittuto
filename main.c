@@ -4,6 +4,10 @@
  {
 
  }
+  public function_ajouter()
+ {
+
+ }
 int main()
 {
     printf("Hello world! ena w  w wejwej \n");
