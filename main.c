@@ -8,11 +8,6 @@
  {
 
  }
- void writename( int name)
- {
-
-    return name;
- }
 int main()
 {
     printf("Hello world! ena w  w wejwej \n");
